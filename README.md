@@ -1,5 +1,5 @@
 # trail# Simple Python program
-print("Hello, World!")
+print("sooper, World!")
 
 # Ask for user input
 name = input("What is your name? ")
